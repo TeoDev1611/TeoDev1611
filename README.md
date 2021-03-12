@@ -13,7 +13,7 @@ Welcome to My Profile!
 
 ## About
 
-Hello! My Name is Teo, I am 14 years old and I know Python HTML, Framework Bulma, Javascript, C++,Vim Scripting and I am learning about Golang, Express.js y Socket.io, I want to be a backend developer in the future. Today i am making Moldy The Best Project Starter of the world in Golang 
+Hello! My Name is Teo, I know Python, HTML, Framework Bulma, Javascript, C++, Vim Scripting, Lua and I am learning about Golang, Express.js y Socket.io, I want to be a backend developer in the future.
 
 ## Estadistics
 
