@@ -13,7 +13,7 @@ Welcome to My Profile!
 
 ## About
 
-Hello! My Name is Teo, I know Python, HTML, Framework Bulma, Javascript, C++, Vim Scripting, Lua, Node JS, Firebase, Sqlite and I am learning about Golang, Express.js y Socket.io, I want to be a backend developer in the future.
+Hello! My Name is Teo, I love made the live of the people easy with the software show my projects in my pinned repositorys
 
 ## Estadistics
 
