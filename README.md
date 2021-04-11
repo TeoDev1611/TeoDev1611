@@ -13,7 +13,9 @@ Welcome to My Profile!
 
 ## About
 
-Hello! My Name is Teo, I love made the live of the people easy with the software show my projects in my pinned repositorys
+Hello! My Name is Teo, I love made the live of the people easy with the software show my projects in my pinned repositorys.
+
+Note: Vimmer of :heart:
 
 ## Estadistics
 
@@ -23,4 +25,3 @@ Hello! My Name is Teo, I love made the live of the people easy with the software
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoDev1611&layout=compact&theme=react&langs_count=4" width="400"/>
 
 
-### Thanks for read this and regards from Ecuador 
