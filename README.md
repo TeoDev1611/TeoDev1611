@@ -15,7 +15,7 @@ Welcome to My Profile!
 
 Hello! My Name is Teo, I love made the live of the people easy with the software show my projects in my pinned repositorys.
 
-Note: Vimmer of :heart:
+*Note:* Vimmer of :heart:
 
 ## Estadistics
 
