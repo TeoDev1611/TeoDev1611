@@ -7,7 +7,7 @@ Welcome to My Profile!
   <img src="https://img.shields.io/twitter/follow/TDev1611?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
   </a>
   <a href="https://github.com/TeoDev1611">
-  <img src="https://img.shields.io/github/followers/TeoDevM?style=flat-square&label=Github%20Followers" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/TeoDevM?style=flat-square&label=Github%20Followers" alt="GitHub followers"/>
    </a>
 </p>
 
