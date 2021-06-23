@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://teodev1611.github.io](https://teodev1611.github.io)
 
-- 💬 Ask me about **Python, Golang, C++**
+- 💬 Ask me about **Python, Golang, TypeScript**
 
 - 📫 How to reach me **teodev1611@gmail.com**
 
