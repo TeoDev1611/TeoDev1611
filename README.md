@@ -23,12 +23,7 @@
 
 - 📫 How to reach me **teodev1611@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/tdev1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tdev1611" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teodev1611&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="teodev1611" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teodev1611&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="teodev1611" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teodev1611&show_icons=true&theme=tokyonight&locale=en" alt="teodev1611" /></p>
 
