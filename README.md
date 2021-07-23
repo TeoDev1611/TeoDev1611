@@ -6,6 +6,7 @@
   <a href="https://twitter.com/TDev1611">
   <img src="https://img.shields.io/twitter/follow/TDev1611?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=teodev1611&label=Profile%20views&color=0e75b6&style=flat" alt="teodev1611" />
   <a href="https://github.com/TeoDev1611">
     <img src="https://img.shields.io/github/followers/TeoDev1611?style=flat-square&label=Github%20Followers" alt="GitHub followers"/>
    </a>
