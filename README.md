@@ -7,8 +7,7 @@ I do some open source projects for help to some communities to make more easy yo
 - Working in? [DPM](https://github.com/dpmland/dpm)
 
 Listening to 🎧: <br> </samp>
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jpfhtsmpj4rlrfq4t6uqardlaq&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
-
+![[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jpfhtsmpj4rlrfq4t6uqardlaq&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
 > :alien: You can check out some of my featured projects below
 
 ---
