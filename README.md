@@ -3,8 +3,7 @@ Helloooo I'm Teo! :wave: <br>
 
 I do some open source projects for help to some communities to make more easy your life :alien: <br>
 
-- Favorite tools: TypeScript, Deno, Golang, Lua and the terminal editors :computer: <br>
-- Working in? [DPM](https://github.com/dpmland/dpm)
+- Working in? [NOX(https://github.com/TeoDev1611/Nox)
 
 Listening to 🎧: <br> </samp>
 
