@@ -3,7 +3,7 @@ Helloooo I'm Teo! :wave: <br>
 
 I do some open source projects for help to some communities to make more easy your life :alien: <br>
 
-- Working in? [NOX(https://github.com/TeoDev1611/Nox)
+- Working in? [NOX](https://github.com/TeoDev1611/Nox)
 
 Listening to 🎧: <br> </samp>
 
